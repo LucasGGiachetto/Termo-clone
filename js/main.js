@@ -1,8 +1,11 @@
 document.addEventListener("DOMContentLoaded", () => {
   // Lista de palavras possíveis (todas com 5 letras)
   const wordList = [
-    "hotel", "porta", "livro", "mesas", "chuva", 
-    "jarro", "balde", "tarde", "pedra", "noite"
+    "hotel", "porta", "livro", "rubor", "chuva", 
+    "jarro", "balde", "tarde", "pedra", "noite",
+    "sutil", "ideia", "tempo", "amigo", "nobre",
+    "poder", "vigor", "sonho", "culto", "louco",
+    "feliz", "regra", "banal", "ajuda", "manso"
   ];
   
   // Elementos do jogo
